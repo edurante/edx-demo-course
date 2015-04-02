@@ -1,4 +1,4 @@
-<vertical display_name="Randomized Questions" parent_url="block-v1:ccafe+ccafedemoX+Demo_Course+type@sequential+block@workflow" index_in_children_list="5">
+<vertical display_name="Randomized Questions" parent_url="block-v1:ccafe+ccafedemoX+course+type@sequential+block@workflow" index_in_children_list="7">
   <problem url_name="ex_practice_3"/>
   <discussion url_name="ddede76df71045ffa16de9d1481d2119"/>
 </vertical>

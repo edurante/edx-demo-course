@@ -1,4 +1,4 @@
-<vertical display_name="Electric Circuit Simulator" parent_url="block-v1:ccafe+ccafedemoX+Demo_Course+type@sequential+block@graded_simulations" index_in_children_list="3">
+<vertical display_name="Electric Circuit Simulator" parent_url="block-v1:ccafe+ccafedemoX+course+type@sequential+block@graded_simulations" index_in_children_list="3">
   <html url_name="d5a5caaf35e84ebc9a747038465dcfb4"/>
   <problem url_name="free_form_simulation"/>
   <problem url_name="logic_gate_problem"/>

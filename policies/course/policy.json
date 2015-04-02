@@ -672,8 +672,8 @@
         ], 
         "xml_attributes": {
             "filename": [
-                "course/Demo_Course.xml", 
-                "course/Demo_Course.xml"
+                "course/course.xml", 
+                "course/course.xml"
             ]
         }, 
         "xqa_key": "qaijS3UatK020Wc0sfCtFe0V6jpB4d64"
